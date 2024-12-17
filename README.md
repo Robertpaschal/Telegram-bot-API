@@ -142,7 +142,7 @@ Example:
 **User**: `What is AI?`  
 **Bot**: `AI stands for Artificial Intelligence...`
 
-**User**: `Explain quantum physics in simple terms.`\n
+**User**: `Explain quantum physics in simple terms.`<br/>
 **Bot**: `Quantum physics studies the behavior of matter and energy at very small scales...`
 
 ---
