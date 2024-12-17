@@ -120,14 +120,14 @@ git push heroku main
 ## Usage 💡
 - Start the Bot:
 
--- Open Telegram.
--- Search for your bot using its username.
--- Start the bot with /start.
+- Open Telegram.
+- Search for your bot using its username.
+- Start the bot with /start.
 
 - Chat with the Bot:
 
--- Send a message to the bot.
--- The bot will respond with AI-generated content.
+- Send a message to the bot.
+- The bot will respond with AI-generated content.
 
 - Rate Limiting:
 
